@@ -16,3 +16,7 @@ This project demonstrates secure segmentation of an enterprise LAN using VLANs, 
 - Cisco IOS CLI (VLANs, DHCP, ACLs, RIP)
 - Troubleshooting DHCP/ACL conflicts
 - Network documentation & technical reporting
+## Author
+**Harrison Whitely**  
+IT & Cybersecurity Professional in Training | Perth, WA  
+[LinkedIn](https://www.linkedin.com/in/harrison-whitely-1b079237a/) | [GitHub Profile](https://github.com/hwhitely)
